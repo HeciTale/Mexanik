@@ -1,0 +1,27 @@
+body {
+    margin: 10px!important;
+}
+
+.col {
+    /* Diğer stil tanımlamaları buraya gelebilir */
+    content: "+"!important; /* Artı işareti eklemek için content özelliğini kullanabilirsiniz */
+}
+.M-trans {
+    margin: 10px;
+}
+.Qiraq {
+    margin:10px;
+}
+.Emek {
+    margin:10px;
+}
+#submit-button {
+    display: block;
+    margin-top: 20px;
+}
+
+
+
+.back {
+    margin: 20px;
+}
